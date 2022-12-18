@@ -20,8 +20,8 @@ export default function Layout({title, keywords, description, children}) {
 }
 
 Layout.defaultProps = {
-    title: "Welcome to Devspace",
-    keywords: "development, coding, programming",
-    description: "The best info and news in development",
+    title: "Welcome to System Design Tutorial",
+    keywords: "system design, coding, programming",
+    description: "The best free and opensource resource to learn System Design",
 
 }
